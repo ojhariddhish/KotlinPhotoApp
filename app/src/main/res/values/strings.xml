@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinPhotoApp</string>
+    <string name="likes">Likes:</string>
+    <string name="favorites">Favorites:</string>
+</resources>
